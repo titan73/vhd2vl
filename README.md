@@ -1,3 +1,4 @@
+# This is a test
 # VHD2VL v3.0
 
 Vhd2vl is designed to translate synthesizable VHDL into Verilog 1995 or 2001.
